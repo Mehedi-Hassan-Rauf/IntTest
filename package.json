@@ -9,5 +9,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "flowbite": "^2.3.0",
+    "sweetalert2": "^11.10.8",
+    "tailwind-scrollbar": "^3.1.0"
+  }
 }
